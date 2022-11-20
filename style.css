@@ -1,0 +1,48 @@
+
+.head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 35px;
+}
+.butt{
+color:whitesmoke;    
+background-color:rgb(100, 199, 233);
+border: none;
+border-radius: 5px;
+width: 50px;
+padding: 5px;
+
+}
+p{
+    margin-bottom: 5px;
+    font-size: 30px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: rgb(137, 228, 0);
+}
+
+span{
+    color:black;
+    font-weight: 200;
+    text-transform: none;
+}
+.inputt{
+    border: none;
+}
+.change{
+    background-color: greenyellow;
+    border: none;
+    border-radius: 5%;
+    padding: 5px;
+    width:50px;
+    color:rgb(63, 57, 57)
+}
+.del{
+    background-color: rgb(255, 19, 19);
+    border: none;
+    border-radius: 5%;
+    padding: 5px;
+    color:white;
+}
